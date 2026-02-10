@@ -1,0 +1,21 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 64 64"
+    width="24"
+    height="24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+>
+    <!-- Корзина -->
+    <path d="M6 8h6l6 28h28l6-18H18" />
+
+    <!-- Ручка -->
+    <path d="M12 8c0-2 2-4 4-4" />
+
+    <!-- Колёса -->
+    <circle cx="26" cy="52" r="4" />
+    <circle cx="46" cy="52" r="4" />
+</svg>
